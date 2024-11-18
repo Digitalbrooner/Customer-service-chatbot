@@ -1,2 +1,10 @@
-# Customer-service-chatbot
-Data from customers who asked questions or interacted  with Steve out chatbot
+
+customer_service_chatbot/
+│
+├── app.py
+├── templates/
+│   └── index.html
+├── static/
+│   └── style.css
+├── requirements.txt
+└── README.md
